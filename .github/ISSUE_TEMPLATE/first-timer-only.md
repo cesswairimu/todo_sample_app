@@ -1,8 +1,8 @@
 ---
-name: First Timer Only
+name: "\U0001F9E8 First Timer Only"
 about: Create a First timer Only Issue
 title: first-timer-only
-labels: ''
+labels: 'good-first-issue'
 assignees: ''
 
 ---

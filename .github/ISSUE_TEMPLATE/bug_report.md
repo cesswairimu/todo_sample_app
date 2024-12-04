@@ -1,8 +1,10 @@
 ---
-name: Bug report :bug:
+name: "\U0001F41B Bug report"
+"\U0002728
+
 about: Create a report to help us improve
 title: ''
-labels: ''
+labels: 'bug'
 assignees: ''
 
 ---
